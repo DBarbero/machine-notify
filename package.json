@@ -1,0 +1,12 @@
+{
+  "name": "server-notification",
+  "version": "1.0.0",
+  "description": "This is a bot for server status notification",
+  "main": "index.js",
+  "author": "Daniel Barbero",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
